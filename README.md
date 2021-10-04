@@ -65,7 +65,7 @@ javascript code
 ```Javascript
 var s ="JavaScript syntax highlighting";
 alert(s);
-ˋˋˋ
+```
 ***
 Colons can be used to align columns.
 |Tables|Are|Cool|
