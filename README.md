@@ -55,14 +55,13 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - [ ] todo list
 - [ ] 2nd things
 ***
-***
 python code
-python
+***python
 s = "Python syntax highlighting"
 print s
 ***
 javascript code
-Javascript
+***Javascript
 var s ="JavaScript syntax highlighting";
 alert(s);
 ***
