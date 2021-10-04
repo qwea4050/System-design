@@ -56,10 +56,10 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - [ ] 2nd things
 ***
 python code
-'''python
+```python
 s = "Python syntax highlighting"
 print s
-'''
+```
 ***
 javascript code
 '''Javascript
