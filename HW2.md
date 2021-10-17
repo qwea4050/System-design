@@ -1,6 +1,7 @@
 # 作業二
 
 ## PERT/CPM圖
+![PERT](PERT-CPM.jpeg "PERT")
 
 ## 關鍵路徑
 1 -> 2 -> 4 -> 6 -> 9 -> 11
